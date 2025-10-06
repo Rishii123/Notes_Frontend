@@ -77,22 +77,10 @@ npm start
 
 ---
 
-## 📱 Screenshots
-
-![Home Page](https://static.vecteezy.com/system/resources/previews/025/729/946/original/note-taking-app-icon-in-illustration-vector.jpg)
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome!  
 For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
