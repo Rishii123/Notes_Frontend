@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://notes-backend-84zi.onrender.com/api", // backend URL
+  // baseURL: "http://localhost:5000/api", // backend URL
+    baseURL: "https://notes-backend-84zi.onrender.com/api", 
 });
 
 // attach token
